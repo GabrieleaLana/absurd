@@ -10,8 +10,6 @@ It's entirely based on Postgres and nothing else.  It's almost as easy to use as
 a queue, but it handles scheduling and retries, and it does all of that without
 needing any other services to run in addition to Postgres.
 
-*… because it's absurd how much you can over-design such a simple thing.*
-
 More about it can be found [in the announcement post](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/).
 
 You can read in the docs [how Absurd compares to PGMQ, Cadence, Temporal,
